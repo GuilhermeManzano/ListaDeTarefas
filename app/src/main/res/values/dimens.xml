@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--Definição de espaçamento e tamanho dos botões e recursos-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activiy_margin">16dp</dimen>
+<!--    <dipen name="layout_margin">10dp</dipen>-->
+<!--    <dipen name="item_margin">5dp</dipen>-->
+    <dimen name="dialog_title_fontsize">24sp</dimen>
+    <dimen name="dialog_input_fontsize">21sp</dimen>
+    <dimen name="list_item_fontsize">21sp</dimen>
+</resources>
